@@ -1,7 +1,7 @@
 ## VISTA
 
 **Model** : CNN
-**Accuracy** : 92.63%
+**Accuracy** : 97.07%
 **Trained model** : vegetable_classifier.h5 
 **Classification** : class_names.npy
 

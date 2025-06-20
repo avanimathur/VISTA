@@ -4,3 +4,4 @@ tensorflow
 pyttsx3
 kagglehub
 Pillow
+scipy

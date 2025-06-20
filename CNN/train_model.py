@@ -7,7 +7,6 @@ import numpy as np
 import os
 import kagglehub
 
-
 # Download and extract Kaggle dataset
 path = kagglehub.dataset_download("misrakahmed/vegetable-image-dataset")
 dataset_path = os.path.join(path, "Vegetable Images", "train")  # Adjusted based on dataset structure
