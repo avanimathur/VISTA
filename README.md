@@ -1,8 +1,11 @@
 ## VISTA
 
 **Model** : CNN
+
 **Accuracy** : 97.07%
+
 **Trained model** : vegetable_classifier.h5 
+
 **Classification** : class_names.npy
 
 ## Steps to manually train and run the model: 
